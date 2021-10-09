@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @CodingChar
-- 👀 I’m interested in "Node.js backerd"
+- 👀 I’m interested in "Node.js backend"
 - 🌱 I’m currently learning backend 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
